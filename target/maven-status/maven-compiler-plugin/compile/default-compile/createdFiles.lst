@@ -1,0 +1,11 @@
+shared/DiceObservable.class
+views/BoardView.class
+services/FirebaseService.class
+views/StartMenuView.class
+models/Dice.class
+models/Player.class
+shared/PlayerObservable.class
+controllers/BoardController.class
+GameApplication.class
+views/DiceObserver.class
+views/PlayerObserver.class
