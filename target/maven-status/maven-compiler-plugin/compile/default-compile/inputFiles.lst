@@ -1,5 +1,10 @@
+/Users/vincentspijkers/Documents/CodeProjects/Java/BordspelDemo/src/main/java/shared/PlayerObservable.java
+/Users/vincentspijkers/Documents/CodeProjects/Java/BordspelDemo/src/main/java/views/PlayerObserver.java
 /Users/vincentspijkers/Documents/CodeProjects/Java/BordspelDemo/src/main/java/views/StartMenuView.java
+/Users/vincentspijkers/Documents/CodeProjects/Java/BordspelDemo/src/main/java/views/DiceObserver.java
 /Users/vincentspijkers/Documents/CodeProjects/Java/BordspelDemo/src/main/java/models/Player.java
+/Users/vincentspijkers/Documents/CodeProjects/Java/BordspelDemo/src/main/java/shared/DiceObservable.java
+/Users/vincentspijkers/Documents/CodeProjects/Java/BordspelDemo/src/main/java/models/Dice.java
 /Users/vincentspijkers/Documents/CodeProjects/Java/BordspelDemo/src/main/java/GameApplication.java
 /Users/vincentspijkers/Documents/CodeProjects/Java/BordspelDemo/src/main/java/controllers/BoardController.java
 /Users/vincentspijkers/Documents/CodeProjects/Java/BordspelDemo/src/main/java/services/FirebaseService.java

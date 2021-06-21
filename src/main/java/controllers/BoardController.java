@@ -13,7 +13,7 @@ public class BoardController {
     private Dice dice;
     private Player player;
 
-   public BoardController(){
+   private BoardController(){
        this.firebaseService = FirebaseService.getInstance();
        this.player = this.firebaseService.fetchCurrentPlayer();
        this.dice = new Dice();
